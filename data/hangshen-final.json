@@ -1,0 +1,932 @@
+{
+  "generatedAt": "2025-12-25T10:02:07.888Z",
+  "jpSource": "https://jprailfan.com/tools/stat/?linename=%E6%9D%AD%E6%B7%B1%E7%BA%BF",
+  "osmRelation": "https://www.openstreetmap.org/relation/2052885",
+  "stations": [
+    {
+      "id": "90041",
+      "nameLocal": "杭州东",
+      "nameRomaji": "Hangzhoudong",
+      "nameEnglish": "Hangzhou East",
+      "location": {
+        "latitude": 30.2935486,
+        "longitude": 120.2082034
+      },
+      "hasPassengerService": true
+    },
+    {
+      "id": "32460",
+      "nameLocal": "杭州南",
+      "nameRomaji": "Hangzhounan",
+      "nameEnglish": "Hangzhou South",
+      "location": {
+        "latitude": 30.1746889,
+        "longitude": 120.2900497
+      },
+      "hasPassengerService": true
+    },
+    {
+      "id": "33187",
+      "nameLocal": "绍兴北",
+      "nameRomaji": "Shaoxingbei",
+      "nameEnglish": "Shaoxing North",
+      "location": {
+        "latitude": 30.101974,
+        "longitude": 120.5344391
+      },
+      "hasPassengerService": true
+    },
+    {
+      "id": "33189",
+      "nameLocal": "绍兴东",
+      "nameRomaji": "Shaoxingdong",
+      "nameEnglish": "Shaoxing East",
+      "location": {
+        "latitude": 30.057183,
+        "longitude": 120.8489935
+      },
+      "hasPassengerService": true
+    },
+    {
+      "id": "33191",
+      "nameLocal": "余姚北",
+      "nameRomaji": "Yuyaobei",
+      "nameEnglish": "Yuyao North",
+      "location": {
+        "latitude": 30.1008272,
+        "longitude": 121.1637121
+      },
+      "hasPassengerService": true
+    },
+    {
+      "id": "33251",
+      "nameLocal": "庄桥",
+      "nameRomaji": "Zhuangqiao",
+      "nameEnglish": "Zhuangqiao",
+      "location": {
+        "latitude": 29.9261417,
+        "longitude": 121.531325
+      },
+      "hasPassengerService": true
+    },
+    {
+      "id": "33284",
+      "nameLocal": "宁波",
+      "nameRomaji": "Ningbo",
+      "nameEnglish": "Ningbo",
+      "location": {
+        "latitude": 29.8646327,
+        "longitude": 121.5326567
+      },
+      "hasPassengerService": true
+    },
+    {
+      "id": "33761",
+      "nameLocal": "宁波东",
+      "nameRomaji": "Ningbodong",
+      "nameEnglish": "Ningbo Dong",
+      "location": {
+        "latitude": 29.8508571,
+        "longitude": 121.5809942
+      },
+      "hasPassengerService": false
+    },
+    {
+      "id": "33685",
+      "nameLocal": "云龙",
+      "nameRomaji": "Yunlong",
+      "nameEnglish": "Yunlong",
+      "location": {
+        "latitude": 29.7764736,
+        "longitude": 121.5880201
+      },
+      "hasPassengerService": false
+    },
+    {
+      "id": "33968",
+      "nameLocal": "奉化",
+      "nameRomaji": "Fenghua",
+      "nameEnglish": "Fenghua",
+      "location": {
+        "latitude": 29.6304914,
+        "longitude": 121.460225
+      },
+      "hasPassengerService": true
+    },
+    {
+      "id": "33970",
+      "nameLocal": "宁海",
+      "nameRomaji": "Ninghai",
+      "nameEnglish": "Ninghai",
+      "location": {
+        "latitude": 29.3393268,
+        "longitude": 121.4149413
+      },
+      "hasPassengerService": true
+    },
+    {
+      "id": "33972",
+      "nameLocal": "三门县",
+      "nameRomaji": "Sanmenxian",
+      "nameEnglish": "Sanmenxian",
+      "location": {
+        "latitude": 29.057886,
+        "longitude": 121.3587785
+      },
+      "hasPassengerService": true
+    },
+    {
+      "id": "33974",
+      "nameLocal": "临海",
+      "nameRomaji": "Linhai",
+      "nameEnglish": "Linhai",
+      "location": {
+        "latitude": 28.8830234,
+        "longitude": 121.2424833
+      },
+      "hasPassengerService": true
+    },
+    {
+      "id": "33976",
+      "nameLocal": "台州西",
+      "nameRomaji": "Taizhouxi",
+      "nameEnglish": "Taizhouxi",
+      "location": {
+        "latitude": 28.6891529,
+        "longitude": 121.286474
+      },
+      "hasPassengerService": true
+    },
+    {
+      "id": "33980",
+      "nameLocal": "温岭",
+      "nameRomaji": "Wenling",
+      "nameEnglish": "Wenling",
+      "location": {
+        "latitude": 28.4821963,
+        "longitude": 121.3208306
+      },
+      "hasPassengerService": true
+    },
+    {
+      "id": "33982",
+      "nameLocal": "雁荡山",
+      "nameRomaji": "Yandangshan",
+      "nameEnglish": "Yandangshan",
+      "location": {
+        "latitude": 28.3444955,
+        "longitude": 121.1478227
+      },
+      "hasPassengerService": true
+    },
+    {
+      "id": "33986",
+      "nameLocal": "乐清",
+      "nameRomaji": "Yueqing",
+      "nameEnglish": "Yueqing",
+      "location": {
+        "latitude": 28.0877033,
+        "longitude": 120.8555424
+      },
+      "hasPassengerService": true
+    },
+    {
+      "id": "33988",
+      "nameLocal": "温州北",
+      "nameRomaji": "Wenzhoubei",
+      "nameEnglish": "Wenzhoubei",
+      "location": {
+        "latitude": 28.0710301,
+        "longitude": 120.6913314
+      },
+      "hasPassengerService": true
+    },
+    {
+      "id": "33990",
+      "nameLocal": "温州南",
+      "nameRomaji": "Wenzhounan",
+      "nameEnglish": "Wenzhounan",
+      "location": {
+        "latitude": 27.9692843,
+        "longitude": 120.5816138
+      },
+      "hasPassengerService": true
+    },
+    {
+      "id": "33994",
+      "nameLocal": "瑞安",
+      "nameRomaji": "Rui'an",
+      "nameEnglish": "Rui'an",
+      "location": {
+        "latitude": 27.7699263,
+        "longitude": 120.5770218
+      },
+      "hasPassengerService": true
+    },
+    {
+      "id": "33996",
+      "nameLocal": "平阳",
+      "nameRomaji": "Pingyang",
+      "nameEnglish": "Pingyang",
+      "location": {
+        "latitude": 27.629223,
+        "longitude": 120.5408442
+      },
+      "hasPassengerService": true
+    },
+    {
+      "id": "33998",
+      "nameLocal": "苍南",
+      "nameRomaji": "苍南",
+      "nameEnglish": "苍南",
+      "location": {
+        "latitude": 27.5313093,
+        "longitude": 120.40836
+      },
+      "hasPassengerService": true
+    },
+    {
+      "id": "34000",
+      "nameLocal": "福鼎",
+      "nameRomaji": "Fuding",
+      "nameEnglish": "Fuding",
+      "location": {
+        "latitude": 27.2855804,
+        "longitude": 120.1846007
+      },
+      "hasPassengerService": true
+    },
+    {
+      "id": "34002",
+      "nameLocal": "太姥山",
+      "nameRomaji": "Taimushan",
+      "nameEnglish": "Taimushan",
+      "location": {
+        "latitude": 27.1298827,
+        "longitude": 120.2197409
+      },
+      "hasPassengerService": true
+    },
+    {
+      "id": "34004",
+      "nameLocal": "霞浦",
+      "nameRomaji": "Xiapu",
+      "nameEnglish": "Xiapu",
+      "location": {
+        "latitude": 26.9127474,
+        "longitude": 120.0282365
+      },
+      "hasPassengerService": true
+    },
+    {
+      "id": "34006",
+      "nameLocal": "福安",
+      "nameRomaji": "Fuan",
+      "nameEnglish": "Fuan",
+      "location": {
+        "latitude": 26.8374358,
+        "longitude": 119.7128302
+      },
+      "hasPassengerService": true
+    },
+    {
+      "id": "34008",
+      "nameLocal": "宁德",
+      "nameRomaji": "Ningde",
+      "nameEnglish": "Ningde",
+      "location": {
+        "latitude": 26.6729441,
+        "longitude": 119.5793795
+      },
+      "hasPassengerService": true
+    },
+    {
+      "id": "34010",
+      "nameLocal": "罗源",
+      "nameRomaji": "Luoyuan",
+      "nameEnglish": "Luoyuan",
+      "location": {
+        "latitude": 26.4591921,
+        "longitude": 119.5721077
+      },
+      "hasPassengerService": true
+    },
+    {
+      "id": "34012",
+      "nameLocal": "连江",
+      "nameRomaji": "Lianjiang",
+      "nameEnglish": "Lianjiang",
+      "location": {
+        "latitude": 26.1977359,
+        "longitude": 119.5627016
+      },
+      "hasPassengerService": true
+    },
+    {
+      "id": "34151",
+      "nameLocal": "福州南",
+      "nameRomaji": "Fuzhounan",
+      "nameEnglish": "Fuzhounan",
+      "location": {
+        "latitude": 25.9892567,
+        "longitude": 119.3866957
+      },
+      "hasPassengerService": true
+    },
+    {
+      "id": "34154",
+      "nameLocal": "福清",
+      "nameRomaji": "Fuqing",
+      "nameEnglish": "Fuqing",
+      "location": {
+        "latitude": 25.678311,
+        "longitude": 119.3794399
+      },
+      "hasPassengerService": true
+    },
+    {
+      "id": "34160",
+      "nameLocal": "涵江",
+      "nameRomaji": "涵江",
+      "nameEnglish": "涵江",
+      "location": {
+        "latitude": 25.4944032,
+        "longitude": 119.1708416
+      },
+      "hasPassengerService": true
+    },
+    {
+      "id": "34163",
+      "nameLocal": "莆田",
+      "nameRomaji": "Putian",
+      "nameEnglish": "Putian",
+      "location": {
+        "latitude": 25.3538682,
+        "longitude": 119.0570588
+      },
+      "hasPassengerService": true
+    },
+    {
+      "id": "34165",
+      "nameLocal": "仙游",
+      "nameRomaji": "Xianyou",
+      "nameEnglish": "Xianyou",
+      "location": {
+        "latitude": 25.2535131,
+        "longitude": 118.8666649
+      },
+      "hasPassengerService": true
+    },
+    {
+      "id": "34167",
+      "nameLocal": "惠安",
+      "nameRomaji": "Hui'an",
+      "nameEnglish": "Hui'an",
+      "location": {
+        "latitude": 25.0606368,
+        "longitude": 118.7096977
+      },
+      "hasPassengerService": true
+    },
+    {
+      "id": "34169",
+      "nameLocal": "泉州",
+      "nameRomaji": "Quanzhou",
+      "nameEnglish": "Quanzhou",
+      "location": {
+        "latitude": 24.9759459,
+        "longitude": 118.5632413
+      },
+      "hasPassengerService": true
+    },
+    {
+      "id": "34172",
+      "nameLocal": "晋江",
+      "nameRomaji": "Jinjiang",
+      "nameEnglish": "Jinjiang",
+      "location": {
+        "latitude": 24.7974067,
+        "longitude": 118.4541454
+      },
+      "hasPassengerService": true
+    },
+    {
+      "id": "34178",
+      "nameLocal": "厦门北",
+      "nameRomaji": "Xiamen North",
+      "nameEnglish": "Xiamen North",
+      "location": {
+        "latitude": 24.6397375,
+        "longitude": 118.0686353
+      },
+      "hasPassengerService": true
+    },
+    {
+      "id": "34565",
+      "nameLocal": "前场",
+      "nameRomaji": "Qianchang",
+      "nameEnglish": "Qianchang",
+      "location": {
+        "latitude": 24.5728722,
+        "longitude": 117.9730668
+      },
+      "hasPassengerService": false
+    },
+    {
+      "id": "34562",
+      "nameLocal": "角美",
+      "nameRomaji": "Jiaomei",
+      "nameEnglish": "Jiaomei",
+      "location": {
+        "latitude": 24.5295661,
+        "longitude": 117.8754377
+      },
+      "hasPassengerService": true
+    },
+    {
+      "id": "35067",
+      "nameLocal": "漳州",
+      "nameRomaji": "Zhangzhou Railway Station",
+      "nameEnglish": "Zhangzhou Railway Station",
+      "location": {
+        "latitude": 24.4598069,
+        "longitude": 117.7113175
+      },
+      "hasPassengerService": true
+    },
+    {
+      "id": "65888",
+      "nameLocal": "漳浦",
+      "nameRomaji": "Zhangpu",
+      "nameEnglish": "Zhangpu",
+      "location": {
+        "latitude": 24.0991136,
+        "longitude": 117.5581513
+      },
+      "hasPassengerService": true
+    },
+    {
+      "id": "65886",
+      "nameLocal": "云霄",
+      "nameRomaji": "Yunxiao",
+      "nameEnglish": "Yunxiao",
+      "location": {
+        "latitude": 23.893835,
+        "longitude": 117.3568609
+      },
+      "hasPassengerService": true
+    },
+    {
+      "id": "65884",
+      "nameLocal": "诏安",
+      "nameRomaji": "Zhao'an",
+      "nameEnglish": "Zhao'an",
+      "location": {
+        "latitude": 23.774602,
+        "longitude": 117.0926958
+      },
+      "hasPassengerService": true
+    },
+    {
+      "id": "65882",
+      "nameLocal": "饶平",
+      "nameRomaji": "Raoping",
+      "nameEnglish": "Raoping",
+      "location": {
+        "latitude": 23.714094,
+        "longitude": 116.9283432
+      },
+      "hasPassengerService": true
+    },
+    {
+      "id": "24427",
+      "nameLocal": "韩江桥所",
+      "nameRomaji": "韩江桥所",
+      "nameEnglish": "韩江桥所",
+      "location": {
+        "latitude": 23.5657472,
+        "longitude": 116.6497858
+      },
+      "hasPassengerService": false
+    },
+    {
+      "id": "65880",
+      "nameLocal": "潮汕",
+      "nameRomaji": "Chaoshan",
+      "nameEnglish": "Chaoshan",
+      "location": {
+        "latitude": 23.5424042,
+        "longitude": 116.5828304
+      },
+      "hasPassengerService": true
+    },
+    {
+      "id": "65876",
+      "nameLocal": "普宁",
+      "nameRomaji": "Puning",
+      "nameEnglish": "Puning",
+      "location": {
+        "latitude": 23.2694032,
+        "longitude": 116.194641
+      },
+      "hasPassengerService": true
+    },
+    {
+      "id": "65878",
+      "nameLocal": "潮阳",
+      "nameRomaji": "Chaoyang",
+      "nameEnglish": "Chaoyang",
+      "location": {
+        "latitude": 23.3833607,
+        "longitude": 116.4173818
+      },
+      "hasPassengerService": true
+    },
+    {
+      "id": "65874",
+      "nameLocal": "葵潭",
+      "nameRomaji": "Kuitan",
+      "nameEnglish": "Kuitan",
+      "location": {
+        "latitude": 23.0670446,
+        "longitude": 115.9921558
+      },
+      "hasPassengerService": true
+    },
+    {
+      "id": "65872",
+      "nameLocal": "陆丰",
+      "nameRomaji": "Lufeng",
+      "nameEnglish": "Lufeng",
+      "location": {
+        "latitude": 22.9507378,
+        "longitude": 115.7284621
+      },
+      "hasPassengerService": true
+    },
+    {
+      "id": "65870",
+      "nameLocal": "汕尾",
+      "nameRomaji": "Shanwei",
+      "nameEnglish": "Shanwei",
+      "location": {
+        "latitude": 22.8132068,
+        "longitude": 115.4237222
+      },
+      "hasPassengerService": true
+    },
+    {
+      "id": "65868",
+      "nameLocal": "鲘门",
+      "nameRomaji": "Houmen",
+      "nameEnglish": "Houmen",
+      "location": {
+        "latitude": 22.8156414,
+        "longitude": 115.1202422
+      },
+      "hasPassengerService": true
+    },
+    {
+      "id": "65866",
+      "nameLocal": "惠东南",
+      "nameRomaji": "Huidongnan",
+      "nameEnglish": "Huidongnan",
+      "location": {
+        "latitude": 22.8475822,
+        "longitude": 114.7897316
+      },
+      "hasPassengerService": true
+    },
+    {
+      "id": "65864",
+      "nameLocal": "惠阳",
+      "nameRomaji": "Huiyang",
+      "nameEnglish": "Huiyang",
+      "location": {
+        "latitude": 22.7866481,
+        "longitude": 114.4879114
+      },
+      "hasPassengerService": true
+    },
+    {
+      "id": "65862",
+      "nameLocal": "深圳坪山",
+      "nameRomaji": "Shenzhenpingshan",
+      "nameEnglish": "Shenzhenpingshan",
+      "location": {
+        "latitude": 22.7103736,
+        "longitude": 114.3221962
+      },
+      "hasPassengerService": true
+    },
+    {
+      "id": "65861",
+      "nameLocal": "李朗所",
+      "nameRomaji": "李朗所",
+      "nameEnglish": "李朗所",
+      "location": {
+        "latitude": 22.6403034,
+        "longitude": 114.1526699
+      },
+      "hasPassengerService": false
+    },
+    {
+      "id": "65860",
+      "nameLocal": "深圳北",
+      "nameRomaji": "Shenzhen North",
+      "nameEnglish": "Shenzhen North",
+      "location": {
+        "latitude": 22.6120365,
+        "longitude": 114.0239469
+      },
+      "hasPassengerService": true
+    }
+  ],
+  "edges": [
+    {
+      "station1Id": "90041",
+      "station2Id": "32460",
+      "distance": 15.38
+    },
+    {
+      "station1Id": "32460",
+      "station2Id": "33187",
+      "distance": 25.87
+    },
+    {
+      "station1Id": "33187",
+      "station2Id": "33189",
+      "distance": 30.67
+    },
+    {
+      "station1Id": "33189",
+      "station2Id": "33191",
+      "distance": 30.67
+    },
+    {
+      "station1Id": "33191",
+      "station2Id": "33251",
+      "distance": 40.37
+    },
+    {
+      "station1Id": "33251",
+      "station2Id": "33284",
+      "distance": 6.84
+    },
+    {
+      "station1Id": "33284",
+      "station2Id": "33761",
+      "distance": 4.91
+    },
+    {
+      "station1Id": "33761",
+      "station2Id": "33685",
+      "distance": 8.3
+    },
+    {
+      "station1Id": "33685",
+      "station2Id": "33968",
+      "distance": 20.39
+    },
+    {
+      "station1Id": "33968",
+      "station2Id": "33970",
+      "distance": 32.67
+    },
+    {
+      "station1Id": "33970",
+      "station2Id": "33972",
+      "distance": 31.77
+    },
+    {
+      "station1Id": "33972",
+      "station2Id": "33974",
+      "distance": 22.5
+    },
+    {
+      "station1Id": "33974",
+      "station2Id": "33976",
+      "distance": 21.98
+    },
+    {
+      "station1Id": "33976",
+      "station2Id": "33980",
+      "distance": 23.31
+    },
+    {
+      "station1Id": "33980",
+      "station2Id": "33982",
+      "distance": 22.82
+    },
+    {
+      "station1Id": "33982",
+      "station2Id": "33986",
+      "distance": 40.44
+    },
+    {
+      "station1Id": "33986",
+      "station2Id": "33988",
+      "distance": 16.22
+    },
+    {
+      "station1Id": "33988",
+      "station2Id": "33990",
+      "distance": 15.62
+    },
+    {
+      "station1Id": "33990",
+      "station2Id": "33994",
+      "distance": 22.56
+    },
+    {
+      "station1Id": "33994",
+      "station2Id": "33996",
+      "distance": 16.05
+    },
+    {
+      "station1Id": "33996",
+      "station2Id": "33998",
+      "distance": 17
+    },
+    {
+      "station1Id": "33998",
+      "station2Id": "34000",
+      "distance": 35.13
+    },
+    {
+      "station1Id": "34000",
+      "station2Id": "34002",
+      "distance": 17.66
+    },
+    {
+      "station1Id": "34002",
+      "station2Id": "34004",
+      "distance": 30.71
+    },
+    {
+      "station1Id": "34004",
+      "station2Id": "34006",
+      "distance": 32.39
+    },
+    {
+      "station1Id": "34006",
+      "station2Id": "34008",
+      "distance": 22.59
+    },
+    {
+      "station1Id": "34008",
+      "station2Id": "34010",
+      "distance": 23.78
+    },
+    {
+      "station1Id": "34010",
+      "station2Id": "34012",
+      "distance": 30.65
+    },
+    {
+      "station1Id": "34012",
+      "station2Id": "34151",
+      "distance": 30.43
+    },
+    {
+      "station1Id": "34151",
+      "station2Id": "34154",
+      "distance": 34.58
+    },
+    {
+      "station1Id": "34154",
+      "station2Id": "34160",
+      "distance": 29.52
+    },
+    {
+      "station1Id": "34160",
+      "station2Id": "34163",
+      "distance": 19.36
+    },
+    {
+      "station1Id": "34163",
+      "station2Id": "34165",
+      "distance": 22.16
+    },
+    {
+      "station1Id": "34165",
+      "station2Id": "34167",
+      "distance": 26.64
+    },
+    {
+      "station1Id": "34167",
+      "station2Id": "34169",
+      "distance": 17.51
+    },
+    {
+      "station1Id": "34169",
+      "station2Id": "34172",
+      "distance": 22.7
+    },
+    {
+      "station1Id": "34172",
+      "station2Id": "34178",
+      "distance": 43.15
+    },
+    {
+      "station1Id": "34178",
+      "station2Id": "34565",
+      "distance": 12.19
+    },
+    {
+      "station1Id": "34565",
+      "station2Id": "34562",
+      "distance": 10.99
+    },
+    {
+      "station1Id": "34562",
+      "station2Id": "35067",
+      "distance": 18.33
+    },
+    {
+      "station1Id": "35067",
+      "station2Id": "65888",
+      "distance": 43.01
+    },
+    {
+      "station1Id": "65888",
+      "station2Id": "65886",
+      "distance": 30.65
+    },
+    {
+      "station1Id": "65886",
+      "station2Id": "65884",
+      "distance": 29.96
+    },
+    {
+      "station1Id": "65884",
+      "station2Id": "65882",
+      "distance": 18.03
+    },
+    {
+      "station1Id": "65882",
+      "station2Id": "24427",
+      "distance": 32.82
+    },
+    {
+      "station1Id": "24427",
+      "station2Id": "65880",
+      "distance": 7.3
+    },
+    {
+      "station1Id": "65880",
+      "station2Id": "65876",
+      "distance": 49.91
+    },
+    {
+      "station1Id": "65876",
+      "station2Id": "65878",
+      "distance": 26.04
+    },
+    {
+      "station1Id": "65878",
+      "station2Id": "65874",
+      "distance": 55.9
+    },
+    {
+      "station1Id": "65874",
+      "station2Id": "65872",
+      "distance": 29.93
+    },
+    {
+      "station1Id": "65872",
+      "station2Id": "65870",
+      "distance": 34.76
+    },
+    {
+      "station1Id": "65870",
+      "station2Id": "65868",
+      "distance": 31.11
+    },
+    {
+      "station1Id": "65868",
+      "station2Id": "65866",
+      "distance": 34.06
+    },
+    {
+      "station1Id": "65866",
+      "station2Id": "65864",
+      "distance": 31.67
+    },
+    {
+      "station1Id": "65864",
+      "station2Id": "65862",
+      "distance": 18.99
+    },
+    {
+      "station1Id": "65862",
+      "station2Id": "65861",
+      "distance": 19.06
+    },
+    {
+      "station1Id": "65861",
+      "station2Id": "65860",
+      "distance": 13.58
+    }
+  ]
+}
